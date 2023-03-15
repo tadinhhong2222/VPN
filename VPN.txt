@@ -2,3 +2,4 @@ vmess=54.169.230.48:80, method=chacha20-poly1305, password=cecd8594-8bde-4153-9e
 trojan= 0001.hn.genzpn.com:443, password= 0ecaae2c-c757-40e2-975a-f5b56a86e140, over-tls=true, tls-verification=false, tls-host=viettel.tiktok.com, fast-open=true, udp-relay=true, tag=🇻🇳 Hà Nội ¹ x 1.0 [TLS] TikTok
 trojan= 0001.sg.genzpn.com:443, password= 0ecaae2c-c757-40e2-975a-f5b56a86e140, over-tls=true, tls-verification=false, tls-host=viettel.tiktok.com, fast-open=true, udp-relay=true, tag=🇸🇬 Singapore ¹ x 1.5 [TLS] TikTok
 trojan= 0001.hcm.genzpn.com:443, password= 0ecaae2c-c757-40e2-975a-f5b56a86e140, over-tls=true, tls-verification=false, tls-host=viettel.tiktok.com, fast-open=true, udp-relay=true, tag=🇻🇳 Hồ Chí Minh ¹ x 1.0 [TLS] TikTok
+trojan= singaporenew1.csadata4g.me:443, password= 711476a0-68dd-4f6a-841a-71f29847ef6c, over-tls=true, tls-verification=false, tls-host=viettel.tiktok.com, fast-open=true, udp-relay=true, tag=🇸🇬SG2 TikTok
