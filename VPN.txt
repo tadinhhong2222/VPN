@@ -6,10 +6,3 @@ trojan= singaporenew1.csadata4g.me:443, password= 711476a0-68dd-4f6a-841a-71f298
 trojan= hongkongnew1.csadata4g.me:443, password= 711476a0-68dd-4f6a-841a-71f29847ef6c, over-tls=true, tls-verification=false, tls-host=viettel.tiktok.com, fast-open=true, udp-relay=true, tag=🇭🇰HK TikTok
 trojan= usanew1.csadata4g.me:443, password= 711476a0-68dd-4f6a-841a-71f29847ef6c, over-tls=true, tls-verification=false, tls-host=viettel.tiktok.com, fast-open=true, udp-relay=true, tag=🇺🇸US TikTok
 trojan= vietnamnew3.csadata4g.me:443, password= 711476a0-68dd-4f6a-841a-71f29847ef6c, over-tls=true, tls-verification=false, tls-host=viettel.tiktok.com, fast-open=true, udp-relay=true, tag=🇻🇳VN TikTok
-
-🇻🇳 Hồ Chí Minh ¹ x 1.0=vmess,0001.hcm.genzpn.com,80,username=0ecaae2c-c757-40e2-975a-f5b56a86e140,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/,ws-headers=Host:dl.kgvn.garenanow.com
-🇻🇳 Hà Nội ¹ x 1.0=vmess,0001.hn.genzpn.com,80,username=0ecaae2c-c757-40e2-975a-f5b56a86e140,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/,ws-headers=Host:dl.kgvn.garenanow.com
-🇸🇬 Singapore ¹ x 1.5=vmess,0001.sg.genzpn.com,80,username=0ecaae2c-c757-40e2-975a-f5b56a86e140,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/,ws-headers=Host:dl.kgvn.garenanow.com
-🇻🇳 Hồ Chí Minh ¹ x 1.0 [TLS]=trojan,0001.hcm.genzpn.com,443,password=0ecaae2c-c757-40e2-975a-f5b56a86e140,sni=dl.kgvn.garenanow.com,tfo=true,udp-relay=true,skip-cert-verify=true
-🇻🇳 Hà Nội ¹ x 1.0 [TLS]=trojan,0001.hn.genzpn.com,443,password=0ecaae2c-c757-40e2-975a-f5b56a86e140,sni=dl.kgvn.garenanow.com,tfo=true,udp-relay=true,skip-cert-verify=true
-🇸🇬 Singapore ¹ x 1.5 [TLS]=trojan,0001.sg.genzpn.com,443,password=0ecaae2c-c757-40e2-975a-f5b56a86e140,sni=dl.kgvn.garenanow.com,tfo=true,udp-relay=true,skip-cert-verify=true
